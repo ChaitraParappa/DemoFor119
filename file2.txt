@@ -1,1 +1,3 @@
 Git Hub is a remote repository where we will manage the code.
+Other team member added the code to make merge conflict
+
