@@ -1,0 +1,1 @@
+Git Hub is a remote repository where we will manage the code.
